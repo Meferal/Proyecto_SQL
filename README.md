@@ -80,7 +80,7 @@ pip install os
 
 ## Modelos lógicos
 
-![Modelo E/R](./img/Modelo_Entidad_Relacion.jpg)
+![Modelo E/R](./img/Modelo_Entidad_Relacion.png)
 
 ![Modelo lógico](./img/Modelo_logico_BBDD.png)
 ---
